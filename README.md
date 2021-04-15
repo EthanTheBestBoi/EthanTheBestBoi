@@ -1,6 +1,6 @@
 
 * 👋 Sup, I'm TehStonkifier.
-* 🙏 I am a coder with some experience but leave most of my tools private.
+* 🙏 I am a coder with some experience but leave most of my tools private and not on github.
 * 👀 I sometimes update my repositories or create some for the tools I create.
 * 🤔 I am mostly interested in Python and JS and other code-related stuff.
 
